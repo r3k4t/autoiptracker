@@ -15,6 +15,13 @@
  
 This program can track any ip address.This programe name is auto ip tracker.A auto ip tracker can track automatic 5 ip address.you can save your ip address or target ip address into ip.txt file and run it.In this time,you can get result.
 
+
+### Installation ###
+
+<ul>
+<li>apt install php
+</ul>
+
 ### Change & Edit ###
 
 <ul>
