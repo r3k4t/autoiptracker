@@ -1,8 +1,5 @@
 
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/autoiptracker/blob/master/LICENSE)
-
-[![PHP](https://img.shield.io/badge/PHP-brightgreen.svg)](https://en.m.wikipedia.org/wiki/PHP)
-
 [![OS](https://img.shields.io/badge/Tested%20On-%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 
