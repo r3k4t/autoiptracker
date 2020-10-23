@@ -34,8 +34,7 @@ This program can track any ip address.This programe name is auto ip tracker.A au
 
 ### Screenshots ###
 
-![Screenshot_2020-10-23-21-37-27-362_com opera browser](https://user-images.githubusercontent.com/69615463/97031412-0cd2b780-1582-11eb-8f52-0b910917a80a.jpg)
-
+![Screenshot_2020-10-23-21-35-46-526_com termux](https://user-images.githubusercontent.com/69615463/97032343-7dc69f00-1583-11eb-98e7-e5d6162ef955.jpg)
 
 loc:50.0635,36.1656
 
