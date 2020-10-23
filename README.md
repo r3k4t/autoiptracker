@@ -19,9 +19,11 @@ This program can track any ip address.This programe name is auto ip tracker.A au
 
 <ul>
 <li>nano ip.txt</li>
-</ul>
+
 
 ![Screenshot_2020-10-23-21-43-43-462_com termux](https://user-images.githubusercontent.com/69615463/97031337-f167ac80-1581-11eb-8cb4-10a5d1cdc40d.jpg)
+<li>Enter your ip address or target ip address and save(press ctrl + x + y)</li>
+</ul>
 
 ### Android Terminal Command ###
 
