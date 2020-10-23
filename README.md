@@ -1,6 +1,6 @@
 
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/autoiptracker/blob/master/LICENSE)
-[!PHP](https://img.shield.io/badge/PHP-brightgreen.svg)](https://www.php.net/releases/index.php)
+[![PHP](https://img.shield.io/badge/PHP-brightgreen.svg)](https://www.php.net/releases/index.php)
 [![OS](https://img.shields.io/badge/Tested%20On-%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
 
